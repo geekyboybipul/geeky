@@ -1,0 +1,51 @@
+div.box{
+
+  border-radius: 2px;
+  height: 300px;
+  width:400px;
+  border-right: 10px;
+  background-color: #202020;
+  align-content: center;
+  position: absolute;
+  top:30%;
+  left:35%;
+  box-shadow: 5px 5px 5px black;
+}
+body.root{
+  background-color: #ebebeb;
+  align-items: center;
+}
+div.div2{
+  background-color: lightgrey;
+  box-shadow: 2px 2px 2px grey;
+}
+h3.welcome{
+  column-fill: balance;
+  text-align: center;
+  text-decoration: none;
+  text-shadow: 2px;
+  color: orange;
+}
+h1.user{
+  color:red;
+  text-align: center;
+}
+h1.botusr{
+  color:green;
+  text-align: center;
+}
+p.reply{
+  color: green;
+}
+input{
+  width: 98%;
+  height: 30px;
+}
+input.usrinput{
+  width: 80%;
+  text-align: center;
+}
+div.div3{
+box-shadow: 2px 2px 2px black;
+background-color: lightgrey;
+}
